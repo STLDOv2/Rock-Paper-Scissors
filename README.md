@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+Program that plays rock paper scissors with you
